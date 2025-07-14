@@ -19,10 +19,8 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
 
 <details>
   <summary>
-		<b>LP</b> <i>(Logic for Programming)</i>
-		<code style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #E61B23, #C71623); color: white; border-radius: 6px; font-size: 12px; font-family: Verdana, DejaVu Sans, sans-serif; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 1px 2px rgba(0,0,0,0.1);">
-			<img src="./images/swi-prolog-logo.png" height="16" alt="SWI-Prolog" style="margin-right: 4px;" />
-			SWI-Prolog
-		</code>
+    <b>LP</b> <i>(Logic for Programming)</i>
+    <img src="./images/swi-prolog-logo.png" height="16" alt="SWI-Prolog Logo" style="vertical-align: middle; margin-right: 4px;" />
+    <img src="https://img.shields.io/badge/Prolog-E61B23?style=plastic&logoColor=white" height="20" alt="Prolog Badge" />
   </summary>
 </details>
