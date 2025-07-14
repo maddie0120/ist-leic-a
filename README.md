@@ -14,4 +14,5 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
 
   <a href="https://github.com/maddie0120/go-game" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=go-game&theme=radical&hide_border=true" />
+  </a>
 </details>
