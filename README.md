@@ -23,4 +23,8 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
     <img src="./images/swi-prolog-logo.png" height="16" alt="SWI-Prolog Logo" style="vertical-align: middle; margin-right: 4px;" />
     <img src="https://img.shields.io/badge/Prolog-E61B23?style=plastic&logoColor=white" height="20" alt="Prolog Badge" />
   </summary>
+
+  <a href="https://github.com/maddie0120/tents-and-trees">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=tents-and-trees&theme=radical&hide_border=true" />
+  </a>
 </details>
