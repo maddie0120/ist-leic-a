@@ -28,3 +28,11 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=tents-and-trees&theme=radical&hide_border=true" />
   </a>
 </details>
+
+<details>
+  <summary>
+    <b>IAC</b> <i>(Introduction to Computer Architecture)</i>
+    <img src="https://img.shields.io/badge/Assembly-6E4C13?style=plastic&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/RISC--V-283272?style=plastic&logo=riscv&logoColor=white" height="20" />
+  </summary>
+</details>
