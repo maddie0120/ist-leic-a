@@ -35,4 +35,8 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
     <img src="https://img.shields.io/badge/Assembly-6E4C13?style=plastic&logoColor=white" height="20" />
     <img src="https://img.shields.io/badge/RISC--V-283272?style=plastic&logo=riscv&logoColor=white" height="20" />
   </summary>
+
+  <a href="https://github.com/maddie0120/kmeans-algorithm-riscv">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=kmeans-algorithm-riscv&theme=radical&hide_border=true" />
+  </a>
 </details>
