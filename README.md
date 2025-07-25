@@ -40,3 +40,11 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=kmeans-algorithm-riscv&theme=radical&hide_border=true" />
   </a>
 </details>
+
+<details>
+  <summary>
+    <b>ASA</b> <i>(Analysis and Synthesis of Algorithms)</i>
+    <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height="20" />
+  </summary>
+</details>
