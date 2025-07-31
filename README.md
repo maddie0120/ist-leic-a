@@ -43,6 +43,14 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
 
 <details>
   <summary>
+    <b>PO</b> <i>(Object-Oriented Programming)</i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" />
+    <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" height="20" />
+  </summary>
+</details>
+
+<details>
+  <summary>
     <b>ASA</b> <i>(Analysis and Synthesis of Algorithms)</i>
     <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" height="20" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height="20" />
