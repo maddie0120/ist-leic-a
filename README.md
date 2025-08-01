@@ -12,7 +12,7 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=mountains-and-valleys&theme=radical&hide_border=true&cache_seconds=1800" />
   </a>
 
-  <a href="https://github.com/maddie0120/go-game" >
+  <a href="https://github.com/maddie0120/go-game">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=go-game&theme=radical&hide_border=true&cache_seconds=1800" />
   </a>
 </details>
@@ -47,6 +47,10 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" />
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" height="20" />
   </summary>
+
+  <a href="https://github.com/maddie0120/vet-hotel-system">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=vet-hotel-system&theme=radical&hide_border=true" />
+  </a>
 </details>
 
 <details>
