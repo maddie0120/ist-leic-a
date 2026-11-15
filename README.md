@@ -59,4 +59,8 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
     <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" height="20" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height="20" />
   </summary>
+
+  <a href="https://github.com/maddie0120/binary-expression-parenthesization">
+    <img align="center" src="https://maddie-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=binary-expression-parenthesization&theme=radical&hide_border=true" />
+  </a>
 </details>
