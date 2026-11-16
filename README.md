@@ -72,3 +72,10 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
     <img align="center" src="https://maddie-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=christmas-toy-distribution&theme=radical&hide_border=true" />
   </a>
 </details>
+
+<details>
+  <summary>
+    <b>SO</b> <i>(Operating Systems)</i>
+    <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height="20" />
+  </summary>
+</details>
