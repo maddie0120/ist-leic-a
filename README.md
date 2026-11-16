@@ -67,4 +67,8 @@ Below are my subjects and the projects I developed during my degree at IST. Clic
   <a href="https://github.com/maddie0120/metro-network-connectivity">
     <img align="center" src="https://maddie-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=metro-network-connectivity&theme=radical&hide_border=true" />
   </a>
+
+  <a href="https://github.com/maddie0120/christmas-toy-distribution">
+    <img align="center" src="https://maddie-readme-stats.vercel.app/api/pin/?username=maddie0120&repo=christmas-toy-distribution&theme=radical&hide_border=true" />
+  </a>
 </details>
